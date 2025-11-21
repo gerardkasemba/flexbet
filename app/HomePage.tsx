@@ -93,7 +93,7 @@ export default function HomePage({ redirectedFrom }: HomePageProps) {
                 <FiTrendingUp className="text-white" size={20} />
               </div>
               <h1 className="text-xl font-bold text-blue-700">
-                FlexBet
+                QuadraTrade
               </h1>
             </div>
             
